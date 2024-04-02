@@ -1,0 +1,28 @@
+Backend Starting
+
+1- install node js 
+
+2- import and exports
+
+	index.js
+let a = 12;
+
+module.exports = a;
+
+index2.js
+let a = require('/script.js')
+console.log(c);
+
+
+// for two exports
+
+	index.js
+let a = 12;
+let b = 323;
+
+module.exports = {first : a, second : b};
+
+  index2.js
+let datad = require('/script.js')
+console.log(c);
+
