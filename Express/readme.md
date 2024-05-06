@@ -1,7 +1,8 @@
 
 // install express in node
+```
 npm i express
-
+```
 
 for continue updation..
 npx nodemon .\filename.js
